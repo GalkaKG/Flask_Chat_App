@@ -1,1 +1,1 @@
-<h1>This is live chat application using Python, Flask & SocketIO </h1>
+<h2>This is live chat application using Python, Flask & SocketIO </h2>
