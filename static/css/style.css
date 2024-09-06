@@ -1,3 +1,7 @@
+body {
+    background-color: #f0f8ffg;
+}
+
 .content {
     display: flex;
     align-items: center;
